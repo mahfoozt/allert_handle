@@ -1,0 +1,24 @@
+Scenario 1:  Company does not have any Automation Framework 
+- Install Java, Eclipse/IntelliJ
+- pull your automation framework from your personal repo to you personal workspace
+- Create new Maven project in office workspace
+- Copy paste pom and other common files  in office workspace
+- then add test cases of office application
+- Push it to repo
+
+
+Scenario 2:  Company HAS Automation Framework 
+- Install Java, Eclipse/IntelliJ
+- pull your automation framework from company Repo
+- then add test cases of office application
+- Push it to repo
+
+Hello Git Repository.
+I want to upload my project doing all the steps
+Project Push, 
+
+
+Project Update 
+
+
+and Project Pull.
